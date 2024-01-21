@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\main.c(51,10): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\main.c(51,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\main.c(51,10): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\main.c(86,24): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\main.c(101,21): warning C4305: '+=': truncation from 'double' to 'float'
+  stage.c
+C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\src\stage.c(67,1): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+  LINK : 0 new modules and 2 (out of 55) modules have changed since prior linking
+  Starting pass 2
+       stage.obj
+       main.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  SpringProject.vcxproj -> C:\Users\karna\source\repos\spring-programming-cw4 2.0\project\visual-studio\SpringProjectx\x64\Debug\SpringProject.exe
