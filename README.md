@@ -1,4 +1,4 @@
-lodha# Pizza Game
+# Pizza Game
 
 Welcome to Pizza Game, a delightful platformer adventure where magic meets deliciousness! Navigate through enchanting levels as a wizard on a quest to collect scattered pizza slices. Jump, run, and cast spells to overcome obstacles and reveal the secrets within each stage. Ready for a slice of adventure?
 
